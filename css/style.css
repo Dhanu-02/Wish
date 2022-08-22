@@ -11,6 +11,22 @@ body{
 .both{
   margin: 20px;
 }
+.edit{
+  position: relative;
+}
+.name-under{
+  text-align: center;
+  margin-top: 1px;
+  width: 10%;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 10px;
+}
+.name{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 0;
+}
 hr{
   width: 60%;
   border-width: 2px;
