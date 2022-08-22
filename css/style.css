@@ -8,9 +8,16 @@ body{
 .date{
   font-family: monospace;
 }
+.both{
+  margin: 20px;
+}
 hr{
   width: 60%;
-  height: 50px;
+  border-width: 2px;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 0;
+  border-color: black;
 }
 p{
   font-family: monospace;
