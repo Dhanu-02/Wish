@@ -7,6 +7,8 @@ body{
 }
 .date{
   font-family: monospace;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 .both{
   margin: 20px;
